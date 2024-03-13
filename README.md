@@ -28,6 +28,8 @@ Project started & finished second week of March 2024
 | PC-Robert | Eth | 192.168.1.10 | 255.255.255.0 | 
 | PC-Camille | Eth | 192.168.1.11 | 255.255.255.0 |
 | PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0 |
+| Router0 | Eth |192.168.2.13 | 255.255.255.0 |
+| Server0 | Eth | 192.168.2.14 | 255.255.255.0 |
 
 **Resource Requirements :**
 - 1 switch (Cisco 2960)
