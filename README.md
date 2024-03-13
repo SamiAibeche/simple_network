@@ -11,9 +11,19 @@ So he wants an installation that is __easily scalable__ . All three hosts must a
 ## What
 `simple_network` is a project made at BeCode that allow us to undersand the basics of Cisco Packet Tracer
 
+![](./assets/schema.png)
+
+It is structured by respecting the requirements of the project :
+
+We understand that we have to :
+
+- Have 3 different hosts
+- Apply IP addressing
+- Be able to configure interconnectivity between hosts.
+- Be able to connect hosts to the internet
 
 ## Why
-Discover the power of Cisco Packet Tracer, discover the possibilities, have a global vision of the Nework architecture.
+Discover the power and the functionnalities of Cisco Packet Tracer, discover the possibilities, have a global vision of the Nework architecture.
 
 
 ## When
@@ -31,7 +41,7 @@ Project started & finished second week of March 2024
 | Router0 | Eth |192.168.2.13 | 255.255.255.0 |
 | Server0 | Eth | 192.168.2.14 | 255.255.255.0 |
 
-**Resource Requirements :**
+**Resource Requirements (updated) :**
 - 1 switch (Cisco 2960)
 - 3 PCs
 - Three Ethernet cables
@@ -40,15 +50,11 @@ Project started & finished second week of March 2024
 
 ### Must-have features
 
-- Connect our router to the real world (internet configuration)
+- Connect our server to the real world (internet configuration)
 
 ### Nice to have features
 
 - Make a script to automate the configuration 
-
-## Live version (link to the .pkt file)
-- https://github.com/SamiAibeche/simple_network
-
 
 ## This is DONE ! LET'S MOVE ON !
 
