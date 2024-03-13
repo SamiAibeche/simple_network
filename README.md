@@ -11,8 +11,6 @@ So he wants an installation that is __easily scalable__ . All three hosts must a
 ## What
 `simple_network` is a project made at BeCode that allow us to undersand the basics of Cisco Packet Tracer
 
-![](./assets/schema.png)
-
 It is structured by respecting the requirements of the project :
 
 We understand that we have to :
@@ -47,6 +45,8 @@ Project started & finished second week of March 2024
 - Three Ethernet cables
 - 1 Server
 - 1 Router
+
+![](./assets/schema.png)
 
 ### Must-have features
 
